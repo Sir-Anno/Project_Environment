@@ -77,3 +77,5 @@ DerivedDataCache/*
 
 # Saved foler
 /Project_Environment/Saved/
+/Project_Environment/Intermediate/
+/Project_Environment/DerivedDataCache/
