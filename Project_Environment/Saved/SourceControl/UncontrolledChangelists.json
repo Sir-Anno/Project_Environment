@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"G:/GitHub Repos/Project_Environment/Project_Environment/Content/Island.umap"
+				"G:/GitHub Repos/Project_Environment/Project_Environment/Content/Island.umap",
+				"G:/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Ocean.uasset"
 			]
 		}
 	]
